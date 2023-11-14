@@ -37,6 +37,9 @@ This project is under the [MIT License](LICENSE), allowing you to use, modify, a
 
 If you have any questions or need further clarification, please reach out. Happy classifying!
 
+References
+----------------------
+**H. Eghbalzadeh, B. Hosseini, S. Khadivi, and A. Khodabakhsh.** Persica: A Persian corpus for multi-purpose text mining and natural language processing. In: 6th International Symposium on Telecommunications (IST). Tehran, Iran. 2012. pp. 1207-1214. DOI: 10.1109/ISTEL.2012.6483172.
 
 
 
