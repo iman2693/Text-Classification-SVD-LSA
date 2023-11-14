@@ -1,12 +1,14 @@
 # Text-Classification-SVD-LSA-
 Text Classification on the PERSICA dataset with SVD (LSA) and different classical classification methods such as SVM and Naïve Bayes
 
+
+
 This repository focuses on Text Classification using the PERSICA dataset. The analysis incorporates Singular Value Decomposition (LSA) and various classical classification methods such as Support Vector Machine (SVM) and Naïve Bayes. The repository contains code, reports, and resources related to this text classification project.
 
 ## Repository Structure
 
 - **HW4 - Iman Kianian - NLP.ipynb**: Jupyter notebook containing the Text Classification code.
-- **HW4.pdf**: PDF document providing detailed insights into the classification methodologies and results.
+- **HW4.pdf**: PDF document providing detailed questions of this assignment.
 - **Persian_StopWords.txt**: List of Persian stopwords used during the analysis.
 - **README.md**: Initial commit information and repository overview.
 - **Report.pdf**: Comprehensive report summarizing the Text Classification analysis.
